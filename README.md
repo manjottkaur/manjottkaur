@@ -37,9 +37,7 @@ Git,GitHub,Google Colab,VS Code
 📚 [AI Study Planner](https://github.com/manjottkaur/AI-Study-Planner)
 
 - A machine learning web application that predicts recommended study hours based on a student's subject, academic level, exam score, available study time, and exam difficulty.
-
 - Tech Used: Flask, Pandas, Scikit-learn, HTML, CSS, JavaScript, NumPy
-
 - Highlights: Data preprocessing with Pandas, Label Encoding for categorical features, Random Forest Regressor for study hour prediction, and a Flask-based web interface for personalized study planning.
 ---
 
